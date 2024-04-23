@@ -1,0 +1,9 @@
+ name : aldrine arts
+
+    on:
+       push:
+             branches ["main"]
+
+  env: 
+ 
+               
